@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\DMS\DMS\bin\Debug\DMS.exe.config
+C:\Users\acer\source\repos\DMS\DMS\bin\Debug\DMS.exe
+C:\Users\acer\source\repos\DMS\DMS\bin\Debug\DMS.pdb
+C:\Users\acer\source\repos\DMS\DMS\obj\Debug\DMS.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\DMS\DMS\obj\Debug\DMS.Form1.resources
+C:\Users\acer\source\repos\DMS\DMS\obj\Debug\DMS.Properties.Resources.resources
+C:\Users\acer\source\repos\DMS\DMS\obj\Debug\DMS.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\DMS\DMS\obj\Debug\DMS.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\DMS\DMS\obj\Debug\DMS.exe
+C:\Users\acer\source\repos\DMS\DMS\obj\Debug\DMS.pdb
+C:\Users\acer\source\repos\DMS\DMS\obj\Debug\DMS.Dashboard.resources
