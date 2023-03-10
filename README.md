@@ -1,2 +1,2 @@
-WinForms demo app
+WinForms app
 Dental Management System
